@@ -73,7 +73,7 @@ circleButton: {
    },
 
 circleButtonTitle: {
-    //fontFamily:'FontAwesome',
+    fontFamily:'FontAwesome',
     fontSize:32,
     lineHeight:32,
 }
